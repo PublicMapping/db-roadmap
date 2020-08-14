@@ -22,6 +22,16 @@ Each issue is labeled with the feature area to which it belongs. The following i
 - **ecosystem:** Ecosystem and API features
 - **other:** Other features
 
+## Stages
+
+Each issue is labeled with the stage of development the feature is in. Each feature generally goes through the following stages in this order:
+
+- **idea:** A feature still in the idea stage, before any planning or development work
+- **planning:** A feature undergoing discovery, planning, or design before development can occur
+- **development:** A feature under active development (currently being built)
+- **testing:** A feature that is mostly developed and is being tested
+- **pending-release:** A feature that is ready to be released, and is pending deployment to production
+
 ## Disclaimer 
 
 Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to the Public Mapping Project as of the date they are made, and the Public Mapping Projects assumes no obligation to update any forward-looking statements. The forward-looking product roadmap does not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and is intended to outline the general development plans. Customers should not rely on this roadmap to make any purchasing decision.
