@@ -1,7 +1,7 @@
 # DistrictBuilder Public Roadmap
 In this repository, you can find the [official DistrictBuilder public product roadmap](https://github.com/PublicMapping/db-roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Email us at support@districtbuilder.org.
 
-:eight_spoked_asterisk: &nbsp; [**Go to the product roadmap**](https://github.com/PublicMapping/db-roadmap/projects/1)
+:eight_spoked_asterisk: &nbsp; [**Go to the product roadmap**](https://github.com/PublicMapping/db-roadmap/projects/1?fullscreen=true)
 
 :envelope: &nbsp; [Sign up for email updates](https://districtbuilder.us1.list-manage.com/subscribe?u=61da999c9897859f1c1fff262&id=70fdf1ae35) to hear when we launch new features
 
@@ -40,6 +40,6 @@ Any statement in this repository that is not purely historical is considered a f
 
 ---
 
-:eight_spoked_asterisk: &nbsp; [**Go to the product roadmap**](https://github.com/PublicMapping/db-roadmap/projects/1)
+:eight_spoked_asterisk: &nbsp; [**Go to the product roadmap**](https://github.com/PublicMapping/db-roadmap/projects/1?fullscreen=true)
 
 :envelope: &nbsp; [Sign up for email updates](https://districtbuilder.us1.list-manage.com/subscribe?u=61da999c9897859f1c1fff262&id=70fdf1ae35) to hear when we launch new features
